@@ -20,3 +20,7 @@
     
     am: ""
     pm: ""
+    
+  txt:
+    article:
+      add: Neuen Artikel hinzufügen

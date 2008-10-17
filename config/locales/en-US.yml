@@ -26,3 +26,7 @@
           
       am: 'am'
       pm: 'pm'
+      
+  txt:
+    article:
+      add: "add new article"
