@@ -24,3 +24,6 @@
   txt:
     article:
       add: Neuen Artikel hinzufügen
+      none:
+        title: Noch kein Artikel
+        body: Es gibt noch keinen Artikel. Klicken Sie auf das Plus Symbol unten, um Ihren ersten Artikel anzulegen.

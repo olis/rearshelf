@@ -29,4 +29,8 @@
       
   txt:
     article:
-      add: "add new article"
+      add: add new article
+      none:
+        title: No Article Yet
+        body: There is no article yet. Press the 'add' sign below to create your first one.
+        
