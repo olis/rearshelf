@@ -1,31 +1,32 @@
 body {
   font-family: Arial, "MS Trebuchet", sans-serif;
   text-decoration: none;
+  background-color: #aaaaaa;
 }
 
 img {border: none;}
 
 h1 {
   font-size: 4em;
-  line-height: 0px;
 }
 
 #page {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
+  background-color: white;
 }
 
 #header {
   height: 100px;
   width: 100%;
-  border: 1px dashed #999;
+  border-bottom: 1px dashed #999;
   text-align: center;
-  font-family: "Times New Roman", serif;
 }
 
 #content {
   min-height: 250px;
+  padding: 20px;
 }
 
 #article {min-height: 100px;}
@@ -35,5 +36,5 @@ h1 {
 #footer {
   height: 50px;
   width:100%;
-  border: 1px dashed #999;
+  border-top: 1px dashed #999;
 }
